@@ -40,5 +40,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor ↗](https://your-solution-url.com)
-- Live Site URL: [Open on Vercel ↗](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor ↗](https://www.frontendmentor.io/solutions/stats-preview-card-component-8v8bMcer3N)
+- Live Site URL: [Open on Vercel ↗](https://stats-preview-card-component-sage-one.vercel.app)
