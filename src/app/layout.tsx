@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     'TypeScript',
     'Arda Eker',
   ],
-  metadataBase: new URL('http://localhost:3000'),
+  metadataBase: new URL('https://stats-preview-card-component-sage-one.vercel.app/'),
   openGraph: {
     title: 'Frontend Mentor - Stats preview card component',
     description:
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     ],
   },
   alternates: {
-    canonical: 'http://localhost:3000',
+    canonical: 'https://stats-preview-card-component-sage-one.vercel.app',
   },
   icons: {
     icon: '/favicon.png',
